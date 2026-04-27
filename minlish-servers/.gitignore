@@ -1,0 +1,12 @@
+# Build output
+/target/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables (secrets)
+.env
+.env.*
+!.env.example
+
